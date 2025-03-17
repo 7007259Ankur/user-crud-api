@@ -1,5 +1,11 @@
 # User CRUD API
 
+## Demo Video
+Watch a live demo of the API in action:
+
+[![Watch the video](https://img.youtube.com/vi/xcKhoLKN_HE/0.jpg)](https://youtu.be/xcKhoLKN_HE)
+
+
 A simple RESTful API for managing users with basic CRUD (Create, Read, Update, Delete) operations. Built with Node.js and Express, this API allows you to store and manage user data in an in-memory array.
 
 ## Features
